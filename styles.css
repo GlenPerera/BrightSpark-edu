@@ -1,4 +1,20 @@
- /* Add your custom styles here */
- body {
-    font-family: "Poppins", sans-serif;
-  }
+/* Add your custom styles here */
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.mainly {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.german {
+  padding-top: 15px;
+  margin-left: 350px;
+  margin-right: 350px;
+  justify-content: center;
+  font-weight: 100;
+  line-height: 1.5;
+}
+
+
