@@ -4,8 +4,16 @@ body {
 }
 
 .mainly {
-  padding-top: 20px;
+  padding-top: 80px;
   text-align: center;
+}
+
+nav {
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 8000;
 }
 
 .german {
@@ -17,4 +25,25 @@ body {
   line-height: 1.5;
 }
 
+.partner {
+  padding-top: 60px;
+}
 
+.logos {
+  padding-top: 20px;
+}
+
+.exams {
+  padding-top: 60px;
+}
+
+.a-series,
+.b-series,
+.c-series {
+  padding-top: 40px;
+}
+
+#a1 {
+  color: rgb(39, 193, 28);
+  font-weight: bold;
+}
